@@ -1,2 +1,2 @@
 Hello Nagoya!
-Hi
+Hi!
